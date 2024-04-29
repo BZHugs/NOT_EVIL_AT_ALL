@@ -1,5 +1,12 @@
 {
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
+  },
+  "customizations": {
+  "codespaces": {
+    "openFiles": [
+      ".git/config"
+      ]
+    }
   }
 }
